@@ -2,7 +2,7 @@
 
 ## How can I run this program?
 
-At the top of this page, there will be a series of tabs. Below that is another series of tabs which should list commits, branches, packages, releases, etc. Click on the release tab and then click on the .exe file there to download the demo.
+At the top of this page, there will be a series of tabs. Below that is another series of tabs which should list commits, branches, packages, releases, etc. Click on the release tab and then click on the .zip file there to download the program.
 
 ## How was this program written?
 
